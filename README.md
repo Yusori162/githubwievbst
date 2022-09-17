@@ -11,6 +11,6 @@ The tool is not really fast as it is not Multi-Threading, anyway you will gain l
 Enjoy :)
 
 # Do you want to contact me?
-Discord: FreeCabbo10#6558
+Discord: czzzz#0664
 
-Telegram: https://t.me/cabboshiba
+
