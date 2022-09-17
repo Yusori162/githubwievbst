@@ -1,0 +1,8 @@
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\bin\Debug\ProfileViews_Botter.exe.config
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\bin\Debug\ProfileViews_Botter.exe
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\bin\Debug\ProfileViews_Botter.pdb
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\obj\Debug\ProfileViews_Botter.csproj.AssemblyReference.cache
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\obj\Debug\ProfileViews_Botter.csproj.SuggestedBindingRedirects.cache
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\obj\Debug\ProfileViews_Botter.csproj.CoreCompileInputs.cache
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\obj\Debug\ProfileViews_Botter.exe
+C:\Users\veled\Downloads\GitHub-Views-Booster-main\GitHub-Views-Booster-main\obj\Debug\ProfileViews_Botter.pdb
